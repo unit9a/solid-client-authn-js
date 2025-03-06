@@ -4,7 +4,7 @@
 The main documentation is at the [root of the repository](https://github.com/inrupt/solid-client-authn-js).
 
 ## DENO use
-A "mod.ts" as been added for the esm rollup built bundle: packages/browser/dist/deno-solid-client-authn.bundle.js
+A "mod.ts" as been added for the esm formatted bundle: packages/browser/dist/deno-solid-client-authn.bundle.js
 
 ## Required polyfills
 
